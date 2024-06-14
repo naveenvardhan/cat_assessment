@@ -1,0 +1,2 @@
+third_party_urls: ["https://third-party.com/webhook-url1", "https://third-party.com/webhook-url2"]
+secret_key: "wirw20RWNo0abegmn"
